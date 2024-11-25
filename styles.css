@@ -14,7 +14,7 @@ h1 {
 }
 
 .square {
-    border: 1px solid black;
+    border: 2px solid black;
     width: 40vw;
     height: 40vw;
     margin: auto;
